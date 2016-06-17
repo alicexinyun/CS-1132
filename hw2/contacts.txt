@@ -1,0 +1,9 @@
+David; 5498743325
+Alex; 4562378945; alex@cornell.edu
+Andrew; 7894564462; 201 Happy Apartments, Ithaca
+Dave; 4561237894
+Zoe; zoe@gmail.com
+Harry; 4561036654; hr@outlook.com
+Alex; New York City
+Harrison; 4451339877
+Harriot; Pittsburgh; harriot@cornell.edu; 4465231115
