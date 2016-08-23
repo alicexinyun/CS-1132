@@ -1,4 +1,4 @@
-# CS-1132
+# CS1132
 Transition to MATLAB (Spring 2016)
 
 
